@@ -7,6 +7,10 @@ function App() {
   return (
     <div className="App">
       <CounterContainer />
+      <div>
+        hello!!!
+        second one!!
+      </div>
     </div>
   );
 }
